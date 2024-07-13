@@ -21,7 +21,7 @@ public class Encapsule {
 	}
 
 	public static void main(String[] args) {
-		Pr9 e = new Pr9();
+		Encapsule e = new Encapsule();
 		e.setAge(10);
 		e.setName("faiz");
 		System.out.println(e.getAge());
