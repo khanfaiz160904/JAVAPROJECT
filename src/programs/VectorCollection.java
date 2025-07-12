@@ -6,7 +6,8 @@ import java.util.Vector;
 public class VectorCollection {
 	public static void main(String[] args) {
 
-		Vector v = new Vector();
+		@SuppressWarnings("rawtypes")
+		Vector<Comparable> v = new Vector<Comparable>();
 		v.add(10);
 		v.add("Faiz");
 		v.add(24);
@@ -14,10 +15,11 @@ public class VectorCollection {
 
 //		System.out.println(v);
 
-		Enumeration e = v.elements();
+		@SuppressWarnings("rawtypes")
+		Enumeration<Comparable> e = v.elements();
 		while (e.hasMoreElements()) {
 			System.out.println(e.nextElement());
-			
+
 		}
 
 	}

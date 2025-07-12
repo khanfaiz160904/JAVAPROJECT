@@ -1,6 +1,4 @@
-package programs;
-
-import java.util.stream.IntStream;
+ package programs;
 
 public class IndexMulti {
 	public static void main(String[] args) {
@@ -11,7 +9,5 @@ public class IndexMulti {
 			c+=b;
 		}
 		System.out.println(c);
-//		int sum = IntStream.range(0, a.length).map(i -> a[i]*i).sum();
-//		System.out.println(sum);
 	}
 }
