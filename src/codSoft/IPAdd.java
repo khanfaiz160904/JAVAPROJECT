@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 import java.net.InetAddress;
 

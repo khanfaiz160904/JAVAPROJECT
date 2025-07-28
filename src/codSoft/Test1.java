@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 import java.util.HashMap;
 import java.util.Iterator;

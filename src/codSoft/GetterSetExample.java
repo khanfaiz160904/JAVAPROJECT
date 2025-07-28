@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 public class GetterSetExample {
 	private int id;

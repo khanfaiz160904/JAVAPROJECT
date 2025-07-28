@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 public class Garbage1 {
 	public static void main(String s[]) throws Exception {

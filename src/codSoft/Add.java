@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 // write a program to show multiply of two numbers without using *
 
 import java.util.Scanner;

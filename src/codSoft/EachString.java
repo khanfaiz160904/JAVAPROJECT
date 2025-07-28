@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 public class EachString {
 	public static void main(String[] args) {

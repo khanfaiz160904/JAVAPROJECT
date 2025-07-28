@@ -1,4 +1,4 @@
-package CodSoft;
+package codSoft;
 
 class DuplicateElements {
 	public static void main(String[] args) {
